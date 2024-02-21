@@ -1,0 +1,27 @@
+main{
+    color: white;
+    padding: 30px;
+    background-color: #222222;
+    flex: 1;
+    background-position: 95%;
+    background-repeat: no-repeat;
+    background-image: url(../logo/logo.png);
+}
+h1{
+    margin-block: 30px;
+}
+ul{
+    margin-top: 50px;
+}
+
+ul > li{
+    margin: 10px 60px;
+    font-size: larger;
+    line-height: 2;
+}
+
+li::marker{
+    color: #61DAFB;
+    font-size: 25px;
+}
+

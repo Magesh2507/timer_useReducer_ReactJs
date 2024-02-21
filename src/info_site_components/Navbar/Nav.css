@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    align-items: center;height: 90px;
+    background-color: #000;
+    padding: 30px 25px;
+
+}
+
+nav > h3{
+    margin-right: auto;
+    color: #61DAFB;
+    font-size: 30px;
+}
+
+nav > h4{
+    color: white;
+    font-size: 25px;
+}
+
+.logo{
+    height: 40px;
+    margin-right: 10px;
+}
